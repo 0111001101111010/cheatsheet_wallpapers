@@ -3,10 +3,10 @@ CheatSheets for wallpapers
 
 Directory and Description of Wallpapers
 ---------------------------------------
--html5
--machine learning
--regular expressions 
--VIM
+- html5
+- machine learning
+- regular expressions 
+- VIM
 
 Contributing
 ------------
